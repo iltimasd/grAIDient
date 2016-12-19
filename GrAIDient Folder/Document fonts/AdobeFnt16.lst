@@ -1,0 +1,27 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Cubano-Regular
+FamilyName:Cubano
+StyleName:Regular
+MenuName:Cubano
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Cubano
+WritingScript:Roman
+OutlineFileName:\Cubano-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:12712
+FileModTime:1325266434
+NameArray:0,Mac,18,Cubano Regular
+NameArray:0,Mac,4,Cubano
+NameArray:0,Win,1,Cubano
+%EndFont
+

@@ -1,0 +1,82 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: GrAIDient.indd
+
+PACKAGE DATE: 3/21/16 5:31 PM
+Creation Date: 3/21/16
+Modification Date: 3/21/16
+
+CONTACT INFORMATION
+
+Company Name: 
+Contact: 
+Address: 
+
+
+
+
+
+Phone: 
+Fax: 
+Email: 
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 0
+Non Opaque Objects :None
+
+FONTS
+1 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
+
+Fonts Packaged
+- Name: Cubano-Regular; Type: OpenType Type 1, Status: OK
+
+
+COLORS AND INKS
+1 Process Inks; 0 Spot Inks
+
+- Name and Type: Process Black; Angle: 0.000; Lines/Inch: 0.000
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 35 Links Found; 0 Modified, 0 Missing 0 Inaccessible
+Images: 0 Embedded, 0 use RGB color space
+
+
+PRINT SETTINGS
+PPD: N/A, (Send To OneNote 2013)
+Printing To: Printer
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: 100%, 100%
+Page Position: Upper Left
+Print Layers: Visible & Printable Layers
+Printer's Marks: None
+Bleed: 0 in, 0 in, 0 in, 0 in
+Color: Composite RGB
+Trapping Mode: None
+Send Image Data: Optimized Subsampling
+OPI/DCS Image Replacement: No
+Page Size: Tabloid
+Paper Dimensions: 8.5 in x 11 in
+Orientation: Portrait
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. GrAIDient.indd; type: Adobe InDesign publication; size: 2132K
+2. GrAIDient.idml; type: InDesign Markup Document; size: 72K
+3. GrAIDient.pdf; type: Adobe Acrobat Document; size: 35K
+4. Cubano-Regular.otf; type: Font file; size: 12K
